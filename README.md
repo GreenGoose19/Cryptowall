@@ -1,1 +1,2 @@
 # Cryptowall
+A Hackathon project.
